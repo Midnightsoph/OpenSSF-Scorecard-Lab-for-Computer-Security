@@ -2,6 +2,8 @@
 
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/12395/badge)](https://www.bestpractices.dev/projects/12395)
 
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/Midnightsoph/OpenSSF-Scorecard-Lab-for-Computer-Security/badge)](https://scorecard.dev/viewer/?uri=github.com/Midnightsoph/OpenSSF-Scorecard-Lab-for-Computer-Security)
+
 This repository is used for a computer security lab to evaluate and improve software security using OpenSSF Scorecard and OpenSSF Best Practices.
 
 # About
